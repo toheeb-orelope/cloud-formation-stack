@@ -1,0 +1,4 @@
+https://docs.github.com/en/actions/get-started/quickstart
+https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows
+https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax
+https://docs.github.com/en/actions/tutorials/build-and-test-code
